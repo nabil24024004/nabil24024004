@@ -281,7 +281,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nabil24024004&label=Visitors&color=ffffff&style=flat-square&labelColor=000000" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=nabil24024004&label=Visitors" alt="Visitors" />
   <br/><br/>
   <i>⭐ From <a href="https://github.com/nabil24024004">nabil24024004</a> &nbsp;·&nbsp; <a href="https://neosparkx.com">NeosparkX</a></i>
 </p>
